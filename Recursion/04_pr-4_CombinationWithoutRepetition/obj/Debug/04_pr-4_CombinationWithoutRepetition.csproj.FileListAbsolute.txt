@@ -1,0 +1,9 @@
+D:\download\Dropbox\997__programing\Algo\Homeworks\Recursion\04_pr-4_CombinationWithoutRepetition\bin\Debug\04_pr-4_CombinationWithoutRepetition.exe.config
+D:\download\Dropbox\997__programing\Algo\Homeworks\Recursion\04_pr-4_CombinationWithoutRepetition\bin\Debug\04_pr-4_CombinationWithoutRepetition.exe
+D:\download\Dropbox\997__programing\Algo\Homeworks\Recursion\04_pr-4_CombinationWithoutRepetition\bin\Debug\04_pr-4_CombinationWithoutRepetition.pdb
+D:\download\Dropbox\997__programing\Algo\Homeworks\Recursion\04_pr-4_CombinationWithoutRepetition\obj\Debug\04_pr-4_CombinationWithoutRepetition.exe
+D:\download\Dropbox\997__programing\Algo\Homeworks\Recursion\04_pr-4_CombinationWithoutRepetition\obj\Debug\04_pr-4_CombinationWithoutRepetition.pdb
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\04_pr-4_CombinationWithoutRepetition\obj\Debug\04_pr-4_CombinationWithoutRepetition.exe
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\04_pr-4_CombinationWithoutRepetition\obj\Debug\04_pr-4_CombinationWithoutRepetition.pdb
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\04_pr-4_CombinationWithoutRepetition\bin\Debug\04_pr-4_CombinationWithoutRepetition.exe
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\04_pr-4_CombinationWithoutRepetition\bin\Debug\04_pr-4_CombinationWithoutRepetition.pdb

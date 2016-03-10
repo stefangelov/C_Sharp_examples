@@ -1,0 +1,10 @@
+c:\users\bocko\documents\visual studio 2013\Projects\Recursion\02_pr-2_NastedLoopsToRecursion\bin\Debug\02_pr-2_NastedLoopsToRecursion.exe
+c:\users\bocko\documents\visual studio 2013\Projects\Recursion\02_pr-2_NastedLoopsToRecursion\bin\Debug\02_pr-2_NastedLoopsToRecursion.pdb
+c:\users\bocko\documents\visual studio 2013\Projects\Recursion\02_pr-2_NastedLoopsToRecursion\obj\Debug\02_pr-2_NastedLoopsToRecursion.csprojResolveAssemblyReference.cache
+c:\users\bocko\documents\visual studio 2013\Projects\Recursion\02_pr-2_NastedLoopsToRecursion\obj\Debug\02_pr-2_NastedLoopsToRecursion.exe
+c:\users\bocko\documents\visual studio 2013\Projects\Recursion\02_pr-2_NastedLoopsToRecursion\obj\Debug\02_pr-2_NastedLoopsToRecursion.pdb
+D:\download\Dropbox\997__programing\Algo\Homeworks\Recursion\02_pr-2_NastedLoopsToRecursion\obj\Debug\02_pr-2_NastedLoopsToRecursion.exe
+D:\download\Dropbox\997__programing\Algo\Homeworks\Recursion\02_pr-2_NastedLoopsToRecursion\obj\Debug\02_pr-2_NastedLoopsToRecursion.pdb
+D:\download\Dropbox\997__programing\Algo\Homeworks\Recursion\02_pr-2_NastedLoopsToRecursion\obj\Debug\02_pr-2_NastedLoopsToRecursion.csprojResolveAssemblyReference.cache
+D:\download\Dropbox\997__programing\Algo\Homeworks\Recursion\02_pr-2_NastedLoopsToRecursion\bin\Debug\02_pr-2_NastedLoopsToRecursion.exe
+D:\download\Dropbox\997__programing\Algo\Homeworks\Recursion\02_pr-2_NastedLoopsToRecursion\bin\Debug\02_pr-2_NastedLoopsToRecursion.pdb

@@ -1,0 +1,10 @@
+D:\download\Dropbox\997__programing\Algo\Homeworks\Recursion\03_pr-3_CombinationWithRepetition\bin\Debug\03_pr-3_CombinationWithRepetition.exe.config
+D:\download\Dropbox\997__programing\Algo\Homeworks\Recursion\03_pr-3_CombinationWithRepetition\bin\Debug\03_pr-3_CombinationWithRepetition.exe
+D:\download\Dropbox\997__programing\Algo\Homeworks\Recursion\03_pr-3_CombinationWithRepetition\bin\Debug\03_pr-3_CombinationWithRepetition.pdb
+D:\download\Dropbox\997__programing\Algo\Homeworks\Recursion\03_pr-3_CombinationWithRepetition\obj\Debug\03_pr-3_CombinationWithRepetition.exe
+D:\download\Dropbox\997__programing\Algo\Homeworks\Recursion\03_pr-3_CombinationWithRepetition\obj\Debug\03_pr-3_CombinationWithRepetition.pdb
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\03_pr-3_CombinationWithRepetition\obj\Debug\03_pr-3_CombinationWithRepetition.exe
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\03_pr-3_CombinationWithRepetition\obj\Debug\03_pr-3_CombinationWithRepetition.pdb
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\03_pr-3_CombinationWithRepetition\bin\Debug\03_pr-3_CombinationWithRepetition.exe
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\03_pr-3_CombinationWithRepetition\bin\Debug\03_pr-3_CombinationWithRepetition.pdb
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\03_pr-3_CombinationWithRepetition\obj\Debug\03_pr-3_CombinationWithRepetition.csprojResolveAssemblyReference.cache

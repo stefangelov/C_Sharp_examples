@@ -1,0 +1,10 @@
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\06_pr-6_ConnectedAreas\bin\Debug\06_pr-6_ConnectedAreas.exe
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\06_pr-6_ConnectedAreas\bin\Debug\06_pr-6_ConnectedAreas.pdb
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\06_pr-6_ConnectedAreas\obj\Debug\06_pr-6_ConnectedAreas.csprojResolveAssemblyReference.cache
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\06_pr-6_ConnectedAreas\obj\Debug\06_pr-6_ConnectedAreas.exe
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\06_pr-6_ConnectedAreas\obj\Debug\06_pr-6_ConnectedAreas.pdb
+D:\downloads\Dropbox\997__programing\Algo\Homeworks\Recursion\06_pr-6_ConnectedAreas\obj\Debug\06_pr-6_ConnectedAreas.exe
+D:\downloads\Dropbox\997__programing\Algo\Homeworks\Recursion\06_pr-6_ConnectedAreas\obj\Debug\06_pr-6_ConnectedAreas.pdb
+D:\downloads\Dropbox\997__programing\Algo\Homeworks\Recursion\06_pr-6_ConnectedAreas\obj\Debug\06_pr-6_ConnectedAreas.csprojResolveAssemblyReference.cache
+D:\downloads\Dropbox\997__programing\Algo\Homeworks\Recursion\06_pr-6_ConnectedAreas\bin\Debug\06_pr-6_ConnectedAreas.exe
+D:\downloads\Dropbox\997__programing\Algo\Homeworks\Recursion\06_pr-6_ConnectedAreas\bin\Debug\06_pr-6_ConnectedAreas.pdb

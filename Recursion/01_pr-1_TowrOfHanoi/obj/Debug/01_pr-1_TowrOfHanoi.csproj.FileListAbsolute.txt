@@ -1,0 +1,11 @@
+c:\users\bocko\documents\visual studio 2013\Projects\Recursion\01_pr-1_TowrOfHanoi\bin\Debug\01_pr-1_TowrOfHanoi.exe
+c:\users\bocko\documents\visual studio 2013\Projects\Recursion\01_pr-1_TowrOfHanoi\bin\Debug\01_pr-1_TowrOfHanoi.pdb
+c:\users\bocko\documents\visual studio 2013\Projects\Recursion\01_pr-1_TowrOfHanoi\obj\Debug\01_pr-1_TowrOfHanoi.csprojResolveAssemblyReference.cache
+c:\users\bocko\documents\visual studio 2013\Projects\Recursion\01_pr-1_TowrOfHanoi\obj\Debug\01_pr-1_TowrOfHanoi.exe
+c:\users\bocko\documents\visual studio 2013\Projects\Recursion\01_pr-1_TowrOfHanoi\obj\Debug\01_pr-1_TowrOfHanoi.pdb
+D:\download\Dropbox\997__programing\Algo\Homeworks\Recursion\01_pr-1_TowrOfHanoi\obj\Debug\01_pr-1_TowrOfHanoi.exe
+D:\download\Dropbox\997__programing\Algo\Homeworks\Recursion\01_pr-1_TowrOfHanoi\obj\Debug\01_pr-1_TowrOfHanoi.pdb
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\01_pr-1_TowrOfHanoi\obj\Debug\01_pr-1_TowrOfHanoi.exe
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\01_pr-1_TowrOfHanoi\obj\Debug\01_pr-1_TowrOfHanoi.pdb
+D:\downloads\Dropbox\997__programing\Algo\Homeworks\Recursion\01_pr-1_TowrOfHanoi\obj\Debug\01_pr-1_TowrOfHanoi.exe
+D:\downloads\Dropbox\997__programing\Algo\Homeworks\Recursion\01_pr-1_TowrOfHanoi\obj\Debug\01_pr-1_TowrOfHanoi.pdb

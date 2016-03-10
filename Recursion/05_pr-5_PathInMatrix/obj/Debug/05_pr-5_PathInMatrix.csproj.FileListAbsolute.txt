@@ -1,0 +1,10 @@
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\05_pr-5_PathInMatrix\obj\Debug\05_pr-5_PathInMatrix.csprojResolveAssemblyReference.cache
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\05_pr-5_PathInMatrix\bin\Debug\05_pr-5_PathInMatrix.exe
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\05_pr-5_PathInMatrix\bin\Debug\05_pr-5_PathInMatrix.pdb
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\05_pr-5_PathInMatrix\obj\Debug\05_pr-5_PathInMatrix.exe
+E:\Dropbox\997__programing\Algo\Homeworks\Recursion\05_pr-5_PathInMatrix\obj\Debug\05_pr-5_PathInMatrix.pdb
+D:\downloads\Dropbox\997__programing\Algo\Homeworks\Recursion\05_pr-5_PathInMatrix\obj\Debug\05_pr-5_PathInMatrix.exe
+D:\downloads\Dropbox\997__programing\Algo\Homeworks\Recursion\05_pr-5_PathInMatrix\obj\Debug\05_pr-5_PathInMatrix.pdb
+D:\downloads\Dropbox\997__programing\Algo\Homeworks\Recursion\05_pr-5_PathInMatrix\bin\Debug\05_pr-5_PathInMatrix.exe
+D:\downloads\Dropbox\997__programing\Algo\Homeworks\Recursion\05_pr-5_PathInMatrix\bin\Debug\05_pr-5_PathInMatrix.pdb
+D:\downloads\Dropbox\997__programing\Algo\Homeworks\Recursion\05_pr-5_PathInMatrix\obj\Debug\05_pr-5_PathInMatrix.csprojResolveAssemblyReference.cache
