@@ -1,0 +1,7 @@
+D:\downloads\Dropbox\997__programing\DataStructures\03_StacksQueus\StacksQueues\03_Array-BasedStack.Tests\bin\Debug\03_Array-BasedStack.Tests.dll
+D:\downloads\Dropbox\997__programing\DataStructures\03_StacksQueus\StacksQueues\03_Array-BasedStack.Tests\bin\Debug\03_Array-BasedStack.Tests.pdb
+D:\downloads\Dropbox\997__programing\DataStructures\03_StacksQueus\StacksQueues\03_Array-BasedStack.Tests\bin\Debug\03_Array-BasedStack.exe
+D:\downloads\Dropbox\997__programing\DataStructures\03_StacksQueus\StacksQueues\03_Array-BasedStack.Tests\bin\Debug\03_Array-BasedStack.pdb
+D:\downloads\Dropbox\997__programing\DataStructures\03_StacksQueus\StacksQueues\03_Array-BasedStack.Tests\obj\Debug\04_Array-BasedStack.Tests.csprojResolveAssemblyReference.cache
+D:\downloads\Dropbox\997__programing\DataStructures\03_StacksQueus\StacksQueues\03_Array-BasedStack.Tests\obj\Debug\03_Array-BasedStack.Tests.dll
+D:\downloads\Dropbox\997__programing\DataStructures\03_StacksQueus\StacksQueues\03_Array-BasedStack.Tests\obj\Debug\03_Array-BasedStack.Tests.pdb

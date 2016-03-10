@@ -1,0 +1,1 @@
+D:\downloads\Dropbox\997__programing\DataStructures\03_StacksQueus\StacksQueues\06-LinkedStack.Tests\obj\Debug\06_LinkedStack.Tests.csprojResolveAssemblyReference.cache

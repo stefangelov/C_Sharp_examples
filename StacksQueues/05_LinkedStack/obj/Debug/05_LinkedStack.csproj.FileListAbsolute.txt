@@ -1,0 +1,7 @@
+D:\downloads\Dropbox\997__programing\DataStructures\03_StacksQueus\StacksQueues\05_LinkedStack\obj\Debug\05_LinkedStack.csprojResolveAssemblyReference.cache
+D:\downloads\Dropbox\997__programing\DataStructures\03_StacksQueus\StacksQueues\05_LinkedStack\bin\Debug\05_LinkedStack.exe
+D:\downloads\Dropbox\997__programing\DataStructures\03_StacksQueus\StacksQueues\05_LinkedStack\bin\Debug\05_LinkedStack.pdb
+D:\downloads\Dropbox\997__programing\DataStructures\03_StacksQueus\StacksQueues\05_LinkedStack\obj\Debug\05_LinkedStack.exe
+D:\downloads\Dropbox\997__programing\DataStructures\03_StacksQueus\StacksQueues\05_LinkedStack\obj\Debug\05_LinkedStack.pdb
+D:\downloads\Dropbox\997__programing\C_Sharp_Examples\trunk\StacksQueues\05_LinkedStack\obj\Debug\05_LinkedStack.exe
+D:\downloads\Dropbox\997__programing\C_Sharp_Examples\trunk\StacksQueues\05_LinkedStack\obj\Debug\05_LinkedStack.pdb
